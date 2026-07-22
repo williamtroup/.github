@@ -15,9 +15,9 @@
 
 # 🚀 Welcome
 
-Welcome! I'm William Troup, an independent software developer creating high-quality JavaScript libraries, developer tools, creative projects, and open-source software focused on performance, accessibility, and ease of use.
+Welcome! I'm William Troup, an independent software developer, musician, and writer who creates high-quality JavaScript libraries, developer tools, creative projects, and open-source software with a strong focus on performance, accessibility, and ease of use.
 
-Whether you're building websites, dashboards, calendars, data visualizations, or responsive applications, you'll find libraries designed to be simple to integrate and highly customizable.
+Whether you're building websites, dashboards, calendars, data visualisations, or responsive web applications, you'll find thoughtfully designed libraries that are lightweight, easy to integrate, and highly configurable.
 
 <br>
 
