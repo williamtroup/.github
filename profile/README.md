@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 William Troup
+# 👋 Welcome to William Troup
 
-### Building modern open-source JavaScript libraries, digital products, and creative projects.
+### Building modern, lightweight, and open-source software for developers around the world.
 
 <p>
 <img src="https://img.shields.io/github/followers/williamtroup?style=for-the-badge" />
@@ -11,38 +11,57 @@
 <img src="https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-*Lightweight • Modern • Configurable • Accessible • Framework Friendly*
-
 </div>
-
----
+<br>
 
 # 🚀 Welcome
 
-Welcome to the official GitHub organisation for **William Troup**.
+Welcome! I'm William Troup, an independent software developer creating high-quality JavaScript libraries, developer tools, creative projects, and open-source software focused on performance, accessibility, and ease of use.
 
-This organisation contains a growing collection of open-source JavaScript libraries, developer tools, websites, and creative projects designed to make web development simpler, faster, and more enjoyable.
+Whether you're building websites, dashboards, calendars, data visualizations, or responsive applications, you'll find libraries designed to be simple to integrate and highly customizable.
+
+<br>
 
 ## ✨ Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📅 **Calendar.js** | Responsive event calendar with day, week, month, year, timeline and date picker views. |
-| 🔥 **Heat.js** | Interactive heat maps, charts and statistics for visualising activity over time. |
-| 🌳 **JsonTree.js** | Fast, searchable JSON viewer. |
-| 🏷️ **Rattribute.js** | Responsive HTML attribute generation. |
-| 🔗 **Rink.js** | Responsive link destination management. |
+### 📅 Calendar.js
+
+A fully featured JavaScript event calendar supporting multiple views, recurring events, date pickers, localization, responsive layouts, importing/exporting, and extensive customization.
+
+### 🔥 Heat.js
+
+Generate beautiful interactive heat maps, charts, statistics, and date-based visualizations with a lightweight, configurable JavaScript library.
+
+### 🌳 JsonTree.js
+
+Display and explore JSON data with an attractive, interactive tree viewer that is easy to integrate into any website.
+
+### 📱 Rattribute.js
+
+Create responsive HTML attributes that automatically adapt across breakpoints, helping you build cleaner and more maintainable responsive applications.
+
+### 🎵 Sleepless Ocean
+
+A creative music project featuring relaxing acoustic, ambient, and world-inspired music.
+
+### ✍️ Tasty Poetry
+
+An online community where poets can publish, discover, and share original poetry with readers from around the world.
+
+<br>
 
 ## 🌍 Why these projects?
 
-- Modern ES Modules
-- TypeScript support
-- Extensive documentation
-- Accessibility focused
-- Lightweight
-- Highly configurable
-- React, Vue & Angular friendly
-- MIT Licensed
+- ⚡ Lightweight and fast
+- 🎨 Highly configurable
+- 📱 Responsive by design
+- 🌍 Internationalisation support
+- ♿ Accessibility focused
+- 📖 Comprehensive documentation
+- 🧩 Easy integration
+- ❤️ Open source
+
+<br>
 
 ## 📚 Documentation
 
@@ -52,6 +71,8 @@ Every project includes:
 - Examples
 - Configuration reference
 - Changelogs
+
+<br>
 
 ## 🤝 Contributing
 
