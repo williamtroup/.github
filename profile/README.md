@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/github/followers/williamtroup?style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/williamtroup?affiliations=OWNER&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20Source-❤️-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 </div>
